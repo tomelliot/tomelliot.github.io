@@ -21,7 +21,7 @@ banner {
 
 
 .full {
-  background: url("/Users/tom/Documents/tomelliot.net.bigpicture/startbootstrap-the-big-picture/imgs/IMG_20161109_164416.jpg") no-repeat center center fixed; 
+  background: url("../imgs/IMG_20161109_164416.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
