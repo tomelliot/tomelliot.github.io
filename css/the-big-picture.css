@@ -1,0 +1,35 @@
+/*!
+ * Start Bootstrap - The Big Picture (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+            color: #FFFFFF;
+}
+
+head_text {
+        color: red;
+}
+
+banner {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+
+.full {
+  background: url("/Users/tom/Documents/tomelliot.net.bigpicture/startbootstrap-the-big-picture/imgs/IMG_20161109_164416.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar-default {
+  background-color: rgba(255, 255, 255, 0.25);
+  border-color: rgba(255, 255, 255, 0);
+  margin-bottom: 50px;
+}
